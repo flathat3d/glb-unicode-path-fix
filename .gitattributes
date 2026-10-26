@@ -1,0 +1,5 @@
+* text=auto
+*.ms text eol=lf
+*.md text eol=lf
+*.py text eol=lf
+*.mzp binary
